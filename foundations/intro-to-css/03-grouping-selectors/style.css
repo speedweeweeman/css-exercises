@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.panda,
+.banana {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.panda {
+    background-color: black;
+    color: white;
+}
+
+.banana {
+    background-color: yellow;
+}
